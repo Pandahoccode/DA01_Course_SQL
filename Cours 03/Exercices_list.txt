@@ -1,0 +1,15 @@
+ex1: hackerank-revising-the-select-query. 
+ex2: hackerank-japanese-cities-attributes. 
+ex3: hackerank-weather-observation-station-1. 
+ex4: hackerank-weather-observation-station-6. 
+ex5: hackerank-weather-observation-station-7. 
+ex6: hackerank-weather-observation-station-9. 
+ex7: hackerank-name-of-employees. 
+ex8: hackerank-salary-of-employees. 
+ex9: leetcode-recyclable-and-low-fat-products. 
+ex10: leetcode-find-customer-referee. 
+ex11: leetcode-big-countries. 
+ex12: leetcode-article-views. 
+ex13: datalemur-tesla-unfinished-part. 
+ex14: datalemur-lyft-driver-wages. 
+ex15: datalemur-find-the-advertising-channel.
