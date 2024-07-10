@@ -1,0 +1,12 @@
+ex1: hackerrank-weather-observation-station-3.
+ex2: hackerrank-weather-observation-station-4.
+ex3: hackerrank-the-blunder.
+ex4: datalemur-alibaba-compressed-mean.
+ex5: datalemur-matching-skills.
+ex6: datalemur-verage-post-hiatus-1.
+ex7: datalemur-cards-issued-difference.
+ex8: datalemur-non-profitable-drugs.
+ex9: leetcode-not-boring-movies.
+ex10: leetcode-number-of-unique-subject.
+ex11: leetcode-find-followers-count.
+ex12:leetcode-classes-more-than-5-students.
