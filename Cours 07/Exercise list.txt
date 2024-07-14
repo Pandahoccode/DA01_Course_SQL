@@ -1,0 +1,10 @@
+ex1: hackerrank-more-than-75-marks.
+ex2: leetcode-fix-names-in-a-table.
+ex3: datalemur-total-drugs-sales.
+ex4: avg-review-ratings.
+ex5: teams-power-users.
+ex6: invalid-tweets.
+ex7: user-activity-for-the-past-30-days.
+ex8: number-of-hires-during-specific-time-period.
+ex9: positions-of-letter-a.
+ex10: macedonian-vintages.
