@@ -1,0 +1,7 @@
+ex1: hackerrank-average-population-of-each-continent.
+ex2: datalemur-signup-confirmation-rate.
+ex3: datalemur-time-spent-snaps.
+ex4: datalemur-supercloud-customer.
+ex5: leetcode-the-number-of-employees-which-report-to-each-employee.
+ex6: leetcode-list-the-products-ordered-in-a-period.
+ex7: leetcode-sql-page-with-no-likes.
